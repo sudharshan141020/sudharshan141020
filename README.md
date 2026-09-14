@@ -2,7 +2,7 @@
 
 # Nune Sudharshan
 
-### Student Developer • Python • AI • Data Intelligence • Full-Stack Development
+### Student Developer • Python • AI • Data Intelligence • Testing
 
 <p>
   <a href="https://github.com/sudharshan141020">
