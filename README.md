@@ -60,6 +60,7 @@ I enjoy taking an idea from a rough concept to a working application — especia
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Recharts-4F46E5?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ### Automation & Desktop
