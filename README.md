@@ -234,7 +234,7 @@ Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/sudharshan141020/sudharshan141020/output/github-contribution-grid-snake.svg"
+<img src="https://raw.githubusercontent.com/sudharshan141020/sudharshan141020/gh-pages/github-contribution-grid-snake.svg"
      alt="GitHub contribution snake"
      width="95%"/>
 
