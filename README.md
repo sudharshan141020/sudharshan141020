@@ -196,13 +196,15 @@ Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**. filecit
 
 ---
 
+---
+
 ## GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sudharshan141020&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sudharshan141020&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sudharshan141020&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=sudharshan141020&theme=tokyonight&hide_border=true" height="165"/>
 
 </div>
 
@@ -210,7 +212,7 @@ Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**. filecit
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan141020&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudharshan141020&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" height="165"/>
 
 </div>
 
@@ -220,9 +222,11 @@ Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**. filecit
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshan141020&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshan141020&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
 
 </div>
+
+---
 
 ---
 
