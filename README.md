@@ -224,7 +224,11 @@ Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sudharshan141020&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+<img
+  src="https://github-readme-stats.vercel.app/api?username=sudharshan141020&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"
+  height="165"
+  alt="GitHub Stats"
+/>
 
 </div>
 
