@@ -39,6 +39,7 @@ I enjoy taking an idea from a rough concept to a working application — especia
 ## Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -47,6 +48,7 @@ I enjoy taking an idea from a rough concept to a working application — especia
 </p>
 
 ### Data & AI
+
 <p>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
@@ -55,6 +57,7 @@ I enjoy taking an idea from a rough concept to a working application — especia
 </p>
 
 ### Web & Backend
+
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -64,6 +67,7 @@ I enjoy taking an idea from a rough concept to a working application — especia
 </p>
 
 ### Automation & Desktop
+
 <p>
   <img src="https://img.shields.io/badge/Tkinter-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/SpeechRecognition-6366F1?style=for-the-badge"/>
@@ -94,7 +98,7 @@ I enjoy taking an idea from a rough concept to a working application — especia
 
 A domain-aware data intelligence application that turns structured datasets into analytical reports instead of simply displaying generic dashboards.
 
-DataLens detects the type of dataset, selects relevant analyses, generates findings and recommendations, performs statistical checks, and can produce narrative insights. fileciteturn1file8L3-L8
+DataLens detects the type of dataset, selects relevant analyses, generates findings and recommendations, performs statistical checks, and can produce narrative insights.
 
 | Category | Details |
 |---|---|
@@ -114,7 +118,7 @@ DataLens detects the type of dataset, selects relevant analyses, generates findi
 - Checks multicollinearity using VIF
 - Generates prioritized findings and recommendations
 - Includes interactive filtering and global search
-- Designed around a rule-based, auditable analysis engine rather than LLM calls fileciteturn1file8L51-L68
+- Designed around a rule-based, auditable analysis engine rather than LLM calls
 
 </details>
 
@@ -127,7 +131,7 @@ DataLens detects the type of dataset, selects relevant analyses, generates findi
 
 A Python desktop voice assistant designed to interact with the computer through spoken commands.
 
-The assistant supports configurable wake words, automatic listening, text-to-speech responses, persistent memory, application control, media controls, web searches, and system actions. fileciteturn2file4L439-L471
+The assistant supports configurable wake words, automatic listening, text-to-speech responses, persistent memory, application control, media controls, web searches, and system actions.
 
 | Category | Details |
 |---|---|
@@ -149,7 +153,7 @@ The assistant supports configurable wake words, automatic listening, text-to-spe
 - Screenshot capture
 - Sleep / wake modes
 - PC shutdown and restart commands
-- Remember and recall user-provided facts through a JSON memory file fileciteturn1file9L40-L70
+- Remember and recall user-provided facts through a JSON memory file
 
 </details>
 
@@ -192,9 +196,7 @@ My current experience is primarily **project-based**. I focus on designing, impl
 
 **AI Tools Workshop — Certificate of Completion**
 
-Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**. fileciteturn1file7L1-L2
-
----
+Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**.
 
 ---
 
@@ -228,10 +230,15 @@ Completed a 1-Day AI Tools Workshop conducted on **4 February 2024**. filecit
 
 ---
 
----
+## GitHub Contribution Snake
 
-<img src="https://raw.githubusercontent.com/sudharshan141020/sudharshan141020/gh-pages/github-contribution-grid-snake.svg"
-     alt="GitHub contribution snake"/>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/sudharshan141020/sudharshan141020/output/github-contribution-grid-snake.svg"
+     alt="GitHub contribution snake"
+     width="95%"/>
+
+</div>
 
 ---
 
@@ -258,34 +265,3 @@ open_to:
   - Learning opportunities
   - Collaborations
   - Interesting software projects
-```
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:sudharshan.n2005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/sudharshan141020">
-  <img src="https://img.shields.io/badge/GitHub-sudharshan141020-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-  <img src="https://img.shields.io/badge/Portfolio-Updating-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### "Build things that solve problems, then keep making them better."
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:4F46E5,100:7C3AED&height=110&section=footer" width="100%"/>
-
-</div>
